@@ -1,0 +1,303 @@
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\lucas\source\repos\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\source\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\EndMenu.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CoreCompileInputs.cache
+C:\Users\Aqil\Desktop\University Work Over Here Cunt\Uni Work\gaming dev\Sem 2\Space Hunters\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPowerUpAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\EndMenu.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPowerUpAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPickupAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\EndMenu.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPickupAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPowerUpAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\lucas\OneDrive\Desktop\Backup\new build\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePickupAnimation.xnb
+C:\Users\lucas\OneDrive\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePowerUpAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\Ship.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\MenuFont.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\BGLayer.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Background\mainbackground.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\EndMenu.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\enemy.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\laser.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePickupAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePowerUpAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\playerShip.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPickupAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPowerUpAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shipAnimation.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\BGLayer.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Backgrounds\mainbackground.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\GUIFont.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\HeartLives.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\GUI\Legand.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\MenuFont.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.exe
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SpaceHunters.pdb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csprojAssemblyReference.cache
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.csproj.CopyComplete
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.exe
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\obj\x86\Debug\SpaceHunters.pdb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\explosion_sound.wma
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\explosion_sound.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\game_music.wma
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\game_music.xnb
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\laser_sound.wma
+C:\Users\ulium\Desktop\SpceH versions\SpaceHuntersV4\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\laser_sound.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\explosion_sound.wma
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\laser_sound.wma
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\EndMenu.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\explosionAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePickupAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\lifePowerUpAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\MainMenu.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPickupAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Images\shieldPowerUpAnimation.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\explosion_sound.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\game_music.wma
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\game_music.xnb
+C:\Users\Aqil\Desktop\SpaceHunters\SpaceHunters\bin\Windows\x86\Debug\Content\Sounds\laser_sound.xnb

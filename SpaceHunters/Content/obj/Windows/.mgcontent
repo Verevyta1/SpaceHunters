@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/laser.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/playerShip.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/enemy.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Backgrounds/mainbackground.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Backgrounds/BGLayer.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/GUI/GUIFont.spritefont</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/GUI/HeartLives.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/MenuFont.spritefont</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/explosionAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/shipAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/MainMenu.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/EndMenu.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/shieldPowerUpAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/GUI/Legand.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/shieldPickupAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/lifePowerUpAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Images/lifePickupAnimation.png</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Sounds/game_music.mp3</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Sounds/explosion_sound.wav</File>
+    <File>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Sounds/laser_sound.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/Sounds/game_music.mp3</SourceFile>
+  <SourceTime>2020-05-17T21:48:07.3883232+01:00</SourceTime>
+  <DestFile>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/bin/Windows/Sounds/game_music.xnb</DestFile>
+  <DestTime>2020-05-18T00:35:03.2460266+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Aqil/Desktop/SpaceHunters/SpaceHunters/Content/bin/Windows/Sounds/game_music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
